@@ -1,0 +1,4 @@
+object wollok {
+	method howAreYou() {
+	}
+}

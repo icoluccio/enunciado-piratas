@@ -1,0 +1,5 @@
+import piratas.*
+
+test "Un muy buen test" {
+	assert.that(true)
+}
