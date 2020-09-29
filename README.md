@@ -4,6 +4,8 @@
 
 # Auténtico software pirata
 
+<img src="https://i.imgur.com/KcW2OHz.jpg" data-canonical-src="https://i.imgur.com/KcW2OHz.jpg" height="200" />
+
 **_Superando las paradojas, y más allá del oxímoron, les proponemos embarcarse en la audaz misión de desarrollar un software que modele algunos aspectos de los auténticos piratas de los viejos tiempos._**
 
 
@@ -58,6 +60,7 @@ Además de los piratas normales, se sabe que algunos tripulantes son espías de 
 
 ---
 
+## Requerimientos
 
 Se requiere modelar el dominio pensando en el paradigma de objetos, con la codificación para cumplir con los siguientes objetivos:
 
